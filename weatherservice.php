@@ -218,3 +218,28 @@ http://api.theweatherchannel.com/data/locsearch/washington?doctype=xml&apikey=c7
 http://api.theweatherchannel.com/data/locsearch/washington?doctype=xml&apikey=c7e992c59005c4330236a6255131b6b0&locale=en_US
 http://api.theweatherchannel.com/data/locsearch/washington?doctype=xml&apikey=c7e992c59005c4330236a6255131b6b0&locale=en_US
 http://api.theweatherchannel.com/data/locsearch/washington?doctype=xml&apikey=c7e992c59005c4330236a6255131b6b0&locale=en_US
+
+
+addInventoryImageToImageTable(27, "webtool/feature_weather_image/26.png", $boxid, 1);
+		addInventoryImageToImageTable(28, "webtool/feature_weather_image/27.png", $boxid, 1);
+		addInventoryImageToImageTable(29, "webtool/feature_weather_image/28.png", $boxid, 1);
+		addInventoryImageToImageTable(30, "webtool/feature_weather_image/29.png", $boxid, 1);
+		addInventoryImageToImageTable(31, "webtool/feature_weather_image/30.png", $boxid, 1);
+		addInventoryImageToImageTable(32, "webtool/feature_weather_image/31.png", $boxid, 1);
+		addInventoryImageToImageTable(33, "webtool/feature_weather_image/32.png", $boxid, 1);
+		addInventoryImageToImageTable(34, "webtool/feature_weather_image/33.png", $boxid, 1);
+		addInventoryImageToImageTable(35, "webtool/feature_weather_image/34.png", $boxid, 1);
+		addInventoryImageToImageTable(36, "webtool/feature_weather_image/35.png", $boxid, 1);
+		addInventoryImageToImageTable(37, "webtool/feature_weather_image/36.png", $boxid, 1);
+		addInventoryImageToImageTable(38, "webtool/feature_weather_image/37.png", $boxid, 1);
+		addInventoryImageToImageTable(39, "webtool/feature_weather_image/38.png", $boxid, 1);
+		
+		addInventoryImageToImageTable(40, "webtool/feature_weather_image/39.png", $boxid, 1);
+		addInventoryImageToImageTable(41, "webtool/feature_weather_image/40.png", $boxid, 1);
+		addInventoryImageToImageTable(42, "webtool/feature_weather_image/41.png", $boxid, 1);
+		addInventoryImageToImageTable(43, "webtool/feature_weather_image/42.png", $boxid, 1);
+		addInventoryImageToImageTable(44, "webtool/feature_weather_image/43.png", $boxid, 1);
+		addInventoryImageToImageTable(45, "webtool/feature_weather_image/44.png", $boxid, 1);
+		addInventoryImageToImageTable(46, "webtool/feature_weather_image/45.png", $boxid, 1);
+		addInventoryImageToImageTable(47, "webtool/feature_weather_image/46.png", $boxid, 1);
+		addInventoryImageToImageTable(48, "webtool/feature_weather_image/47.png", $boxid, 1);
