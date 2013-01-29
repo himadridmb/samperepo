@@ -45,7 +45,7 @@ if($_POST["datatype"]=="sendweather")
       else if($row['box_postal']!="" && strlen($row['box_postal']) == 5)
         $loc_code = $row['box_postal'];       
     }
-    http://api.theweatherchannel.com/data/locsearch/washington?doctype=xml&apikey=c7e992c59005c4330236a6255131b6b0&locale=en_US
+    
 	
     if($loc_code=="")
     {
@@ -212,3 +212,9 @@ if($_POST["datatype"]=="sendweather")
 	
 
 ?>
+
+http://api.theweatherchannel.com/data/locsearch/washington?doctype=xml&apikey=c7e992c59005c4330236a6255131b6b0&locale=en_US
+http://api.theweatherchannel.com/data/locsearch/washington?doctype=xml&apikey=c7e992c59005c4330236a6255131b6b0&locale=en_US
+http://api.theweatherchannel.com/data/locsearch/washington?doctype=xml&apikey=c7e992c59005c4330236a6255131b6b0&locale=en_US
+http://api.theweatherchannel.com/data/locsearch/washington?doctype=xml&apikey=c7e992c59005c4330236a6255131b6b0&locale=en_US
+http://api.theweatherchannel.com/data/locsearch/washington?doctype=xml&apikey=c7e992c59005c4330236a6255131b6b0&locale=en_US
